@@ -1,0 +1,26 @@
+<svg width="200" height="150" viewBox="0 0 200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3064E8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3B82F6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="200" height="150" rx="10" fill="url(#grad1)" />
+
+  <!-- Text "interviewprep" -->
+  <text x="100" y="30" text-anchor="middle" fill="white" font-family="modesto" font-size="18" font-weight="bold">interviewprep</text>
+
+  <!-- Laptop Screen Outline -->
+  <rect x="30" y="40" width="140" height="80" rx="10" fill="#1E40AF" />
+
+  <!-- Laptop Screen Details -->
+  <rect x="35" y="45" width="130" height="60" rx="8" fill="#3064E8" />
+
+  <!-- Keyboard -->
+  <rect x="50" y="125" width="100" height="10" rx="2" fill="#4B5563" />
+
+  <!-- Text "AI" inside the laptop -->
+  <text x="130" y="90" text-anchor="middle" fill="white" font-family="Arial" font-size="48" font-weight="bold">.AI</text>
+
+</svg>
