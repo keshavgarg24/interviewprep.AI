@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import React, { useEffect } from 'react'
 
-function header() {
+function Header() {
 
     const path=usePathname();
     useEffect(() => {
@@ -40,4 +40,4 @@ function header() {
   )
 }
 
-export default header
+export default Header
