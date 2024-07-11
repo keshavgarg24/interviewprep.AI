@@ -39,8 +39,8 @@ function Page() {
         <div className='border border-gray-300 bg-gray-100 p-4 rounded-xl flex flex-col items-center mb-8'>
           <div className='w-full flex justify-center mt-4'>
                 <Image
-                  src='/image1.png'
-                  alt='Image 1'
+                  src='/image2.png'
+                  alt='Image 2'
                   width={600}
                   height={400}
                   className='rounded-xl'
