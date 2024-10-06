@@ -1,5 +1,6 @@
 # interviewprep.AI 
 #### - excel your interviews powered by AI 
+<img width="196" alt="Screenshot 2024-10-06 at 7 40 05 PM" src="https://github.com/user-attachments/assets/17935a24-ae70-40b8-9c09-e0f4d3740449">
 
 ## Getting Started
 
